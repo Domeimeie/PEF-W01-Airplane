@@ -1,5 +1,8 @@
 public class FlightApp {
 
+    /*
+     * Wow super amazing stuff
+     */
     public static void main(String[] args) {
 
         // Objekt erstellen
